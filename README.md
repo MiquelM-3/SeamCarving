@@ -1,2 +1,2 @@
 # SeamCarving
-Implementation of Seam Carving algoritmh
+Implementation of the Seam Carving algorithm in a straightforward way in Python
